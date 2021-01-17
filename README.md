@@ -5,7 +5,7 @@
   - 🔭 I’m currently working on Cloud Security and I'd love to work on products that touches lives of billions of people around the world.
   - 🌱 I’m currently learning .NET and system design! 
   - 👯 I’m looking to collaborate on a project that can make lives better, especially around productivity enhancement.
-  - 🤔 I’m looking for help on large scale districuted design.
+  - 🤔 I’m looking for help on large scale distributed designs.
   - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the clean code skills these days.
   - ⚡ Fun fact: I love making and eating indian and italian food.
   - 🥳 Latest achievements: [Microsoft Hackathon 2020](https://www.youracclaim.com/badges/32563840-8e00-4d5b-ab58-2c309ca34cf3/linked_in_profile)
