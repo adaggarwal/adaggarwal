@@ -16,4 +16,5 @@
 
 [![Aditya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaggarwal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-## [My LinkedIN profile](https://www.linkedin.com/in/aditya-aggarwal1992/)
+## Social
+[My LinkedIN profile](https://www.linkedin.com/in/adaggarw/)
