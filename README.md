@@ -2,13 +2,12 @@
 #### I'm a curious soul who likes to explore, learn, and develop solutions requiring a considerable amount of perseverance and research
 
 # A Little About Me:
-  - 🔭 I’m currently working on Cloud Security and I'd love to work on products that touch the lives of billions of people around the world.
-  - 🌱 I’m currently learning .NET and system design! 
+  - 🔭 I’m currently working on extending Generative AI platforms for developers. I'd love to work on products that touch lives of billions of people around the world.
+  - 🌱 I’m currently learning contemporary software design paradigms and Generative AI in general.
   - 👯 I’m looking to collaborate on a project that can make lives better, especially around productivity enhancement.
-  - 🤔 I’m looking for help on large-scale distributed designs.
-  - 😛 I'm looking to learn more about using containerization software such as Docker. I'm also learning the clean code skills these days.
+  - 🤔 I’m looking for help on large-scale distributed/orchestration designs.
+  - 😛 I'm also learning the clean code skills these days.
   - ⚡ Fun fact: I love making and eating Indian and Italian food.
-  - 🥳 Latest achievements: [Microsoft Hackathon 2020](https://www.youracclaim.com/badges/32563840-8e00-4d5b-ab58-2c309ca34cf3/linked_in_profile)
   - 📫 How to reach me: aggaraditya@gmail.com
  
 ## My Stats:
